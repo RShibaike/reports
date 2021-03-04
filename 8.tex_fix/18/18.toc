@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}はじめに}{2}{section.1}%
+\contentsline {section}{\numberline {2}現状}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}憲法における教育権}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}日本における外国人の人権享有主体性}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}外国人の子どもの教育権に対する国の姿勢}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}権利としての認識}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}具体的な政策}{4}{subsubsection.2.3.2}%
+\contentsline {paragraph}{国の外国人教育に関する施策実施の経緯}{4}{section*.2}%
+\contentsline {paragraph}{外国人の子どもの受入れが公教育において直面する言語の課題}{5}{section*.3}%
+\contentsline {paragraph}{外国人児童生徒をめぐる教育の政策}{5}{section*.4}%
+\contentsline {subsection}{\numberline {2.4}問題の所在}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}判例・学説}{7}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}高槻マイノリティ教育権訴訟}{7}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}京都市立中学校外国籍生徒退学届提出事件}{8}{subsubsection.2.5.2}%
+\contentsline {section}{\numberline {3}解決のための憲法論}{8}{section.3}%
+\contentsline {section}{\numberline {4}結語}{9}{section.4}%
+\contentsline {section}{\numberline {5}参考文献}{9}{section.5}%

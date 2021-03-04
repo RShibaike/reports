@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}はじめに}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}問題の所在}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}本レポートの構成}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}日本における性犯罪の実情}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}性犯罪とは}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}性犯罪の特徴}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}性犯罪の認知件数}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}再犯}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}諸外国の位置情報システム}{8}{section.3}%
+\contentsline {section}{\numberline {4}公権力による私人に対するGPS装着の合憲性}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}GPS捜査を違法とした最高裁判例（最大判平成29年3月15日刑集71巻3号13頁）}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}性犯罪者に対するGPS装着義務化案の合憲性}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}その他の性犯罪者再犯防止策とGPS機器装着義務化の位置づけ}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}国レベルでの性犯罪者再犯防止対策}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}地方自治体レベルでの性犯罪者再犯防止対策}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}性犯罪者の再犯防止にあたっての2つの側面}{12}{subsection.5.3}%
+\contentsline {section}{\numberline {6}参考文献}{13}{section.6}%

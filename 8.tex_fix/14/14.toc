@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}はじめに}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}問題の所在---宗教法人に対する持続化給付金の給付が政教分離原則に反するか}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}本レポートの構成}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}判例における政教分離規定の判断枠組み}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}憲法20条3項で禁止される宗教的活動}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}憲法20条1項後段で禁止される宗教団体への特権付与・宗教団体による政治上の権力の行使　}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}憲法89条で禁止される宗教団体への公的支出}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}目的効果基準と新しい判断枠組みの検討}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}目的効果基準に対する検討}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}新しい判断枠組みの検討}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}持続化給付金における政教分離問題への当てはめ}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}他の非宗教的な方法で、宗教法人の「事業の継続・再起」をはかる方法があるか}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}社会的に不合理な結果を生じるといえるか}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}まとめ}{9}{section.5}%
+\contentsline {section}{\numberline {6}参考文献}{10}{section.6}%
