@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 15:56
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,14 +377,6 @@ Overfull \hbox (36.74751pt too wide) in paragraph at lines 22--22
 8 。| 
  []
 
-
-Underfull \hbox (badness 3343) in paragraph at lines 22--22
- [][][]\JY1/hmc/m/n/8 西村博之 「 米国引き裂くデマと陰謀論　 \OT1/cmr/m/n/8 SNS
- \JY1/hmc/m/n/8 は嘘つきマシン ？ 」 日本経済新聞 \OT1/cmr/m/n/8 2020 \JY1/hmc/
-m/n/8 年 \OT1/cmr/m/n/8 11 \JY1/hmc/m/n/8 月 \OT1/cmr/m/n/8 8 \JY1/hmc/m/n/8 日
-
- []
-
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 30.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
@@ -398,40 +390,28 @@ LaTeX Font Info:    Font shape `JY1/utfj/m/2' will be
 (Font)              scaled to size 9.24683pt on input line 107.
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--126
- [][][]\OT1/cmr/m/n/8 European Union (2018) Roadmaps to im-ple-ment the Code of
- Prac-tice on dis-in-for-ma-tion,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
- \OT1/cmr/m/n/8 [https://ec.europa.eu/digital-single-market/en/news/roadmaps-im
-plement-code-practice-disinformation] Ac-cessed
+ []\OT1/cmr/m/n/8 [https://ec.europa.eu/digital-single-market/en/news/roadmaps-
+implement-code-practice-disinformation] Ac-cessed
  []
 
 [8] [9] [10] [11] [12] [13] [14] [15]
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 258.
+(Font)              scaled to size 7.39746pt on input line 257.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 258.
+(Font)              scaled to size 7.39746pt on input line 257.
 LaTeX Font Info:    Kanji font shape `JY1/hgt/m/it' undefined
-(Font)              No change on input line 258.
+(Font)              No change on input line 257.
  [16]
 LaTeX Font Info:    Kanji font shape `JY1/hgt/m/it' undefined
-(Font)              No change on input line 287.
+(Font)              No change on input line 286.
 
-Underfull \hbox (badness 2856) in paragraph at lines 275--312
-[]\JY1/hmc/m/n/10 ・ \OT1/cmr/m/n/10 Eu-ro-pean Union (2018) Roadmaps to im-ple
--ment the Code of Prac-tice on dis-in-for-ma-tion,
+Overfull \hbox (5.83319pt too wide) in paragraph at lines 274--311
+[]\OT1/cmr/m/n/10 [https://ec.europa.eu/digital-single-market/en/news/roadmaps-
+implement-code-practice-disinformation]\JY1/hmc/m/n/10 。 
  []
 
 
-Overfull \hbox (5.83319pt too wide) in paragraph at lines 275--312
-\OT1/cmr/m/n/10 [https://ec.europa.eu/digital-single-market/en/news/roadmaps-im
-plement-code-practice-disinformation]\JY1/hmc/m/n/10 。 
- []
-
-
-Overfull \hbox (2.27887pt too wide) in paragraph at lines 275--312
+Overfull \hbox (2.27887pt too wide) in paragraph at lines 274--311
 []\JY1/hmc/m/n/10 ・ \OT1/cmr/m/n/10 Face-book\JY1/hmc/m/n/10 、 \OT1/cmr/m/n/1
 0 Face-book \JY1/hmc/m/n/10 のフ ァクトチ ェ ック \OT1/cmr/m/n/10 [https://www.
 facebook.com/business/help/2593586717571940]\JY1/hmc/m/n/10 。 
@@ -450,4 +430,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  71i,10n,77p,1718b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on C1.dvi (19 pages, 145780 bytes).
+Output written on C1.dvi (19 pages, 145692 bytes).

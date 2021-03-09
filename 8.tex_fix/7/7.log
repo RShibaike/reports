@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 21:12
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 22:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,31 +377,25 @@ LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 
 ] [3] [4] [5]
 LaTeX Font Info:    Font shape `JT1/utfj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 106.
+(Font)              scaled to size 9.24683pt on input line 105.
 LaTeX Font Info:    Font shape `JY1/utfj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 106.
+(Font)              scaled to size 9.24683pt on input line 105.
  [6] [7] [8]
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 165.
+(Font)              scaled to size 9.24683pt on input line 164.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 165.
+(Font)              scaled to size 9.24683pt on input line 164.
  [9] [10] (./7.aux)
-
-Package rerunfilecheck Warning: File `7.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `7.out':
-(rerunfilecheck)             Before: A624DF2B2E45792475922940B3B3E762;1074
-(rerunfilecheck)             After:  C55834617E680B03EBDDB2389CE0043D;1122.
+Package rerunfilecheck Info: File `7.out' has not changed.
+(rerunfilecheck)             Checksum: C55834617E680B03EBDDB2389CE0043D;1122.
  ) 
 Here is how much of TeX's memory you used:
  10229 strings out of 479488
  143238 string characters out of 5874794
- 467048 words of memory out of 5000000
+ 466104 words of memory out of 5000000
  27817 multiletter control sequences out of 15000+600000
  414308 words of font info for 87 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  71i,10n,77p,1048b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 7.dvi (10 pages, 68000 bytes).
+Output written on 7.dvi (10 pages, 68196 bytes).

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  4 MAR 2021 22:48
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -379,48 +379,42 @@ LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 File: ../../media/5/image1.jpg Graphic file (type bmp)
 <../../media/5/image1.jpg>
 
-Overfull \hbox (9.11476pt too wide) in paragraph at lines 55--56
+Overfull \hbox (9.11476pt too wide) in paragraph at lines 53--54
 [][] 
  []
 
 [3] [4] [5]
 LaTeX Font Info:    Font shape `JT1/utfj/m/6' will be
-(Font)              scaled to size 7.39746pt on input line 97.
+(Font)              scaled to size 7.39746pt on input line 95.
 LaTeX Font Info:    Font shape `JY1/utfj/m/6' will be
-(Font)              scaled to size 7.39746pt on input line 97.
+(Font)              scaled to size 7.39746pt on input line 95.
 LaTeX Font Info:    Font shape `JT1/utfj/m/4' will be
-(Font)              scaled to size 7.39746pt on input line 97.
+(Font)              scaled to size 7.39746pt on input line 95.
 LaTeX Font Info:    Font shape `JY1/utfj/m/4' will be
-(Font)              scaled to size 7.39746pt on input line 97.
+(Font)              scaled to size 7.39746pt on input line 95.
  [6] [7]
 LaTeX Font Info:    Font shape `JT1/utfj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 115.
+(Font)              scaled to size 9.24683pt on input line 113.
 LaTeX Font Info:    Font shape `JY1/utfj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 115.
+(Font)              scaled to size 9.24683pt on input line 113.
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 7.39746pt on input line 115.
+(Font)              scaled to size 7.39746pt on input line 113.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 7.39746pt on input line 115.
+(Font)              scaled to size 7.39746pt on input line 113.
  [8] [9] [10] [11]
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 162.
+(Font)              scaled to size 9.24683pt on input line 160.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 162.
+(Font)              scaled to size 9.24683pt on input line 160.
 LaTeX Font Info:    Font shape `JT1/utfj/m/6' will be
-(Font)              scaled to size 9.24683pt on input line 185.
+(Font)              scaled to size 9.24683pt on input line 183.
 LaTeX Font Info:    Font shape `JY1/utfj/m/6' will be
-(Font)              scaled to size 9.24683pt on input line 185.
+(Font)              scaled to size 9.24683pt on input line 183.
 LaTeX Font Info:    Font shape `JT1/utfj/m/4' will be
-(Font)              scaled to size 9.24683pt on input line 185.
+(Font)              scaled to size 9.24683pt on input line 183.
 LaTeX Font Info:    Font shape `JY1/utfj/m/4' will be
-(Font)              scaled to size 9.24683pt on input line 185.
-
-Overfull \hbox (4.56384pt too wide) in paragraph at lines 161--204
-\JY1/hmc/m/n/10 に関する手引き― 〔 改訂版 〕 」 \OT1/cmr/m/n/10 https://www.un
-hcr.org/jp/wp-content/uploads/sites/34/2017/06/HB[]web.pdf
- []
-
-[12] [13] (./5.aux)
+(Font)              scaled to size 9.24683pt on input line 183.
+ [12] [13] (./5.aux)
 Package rerunfilecheck Info: File `5.out' has not changed.
 (rerunfilecheck)             Checksum: 17B8276AC0E506CA25470F59CBC5618D;1393.
  ) 
@@ -431,6 +425,6 @@ Here is how much of TeX's memory you used:
  27831 multiletter control sequences out of 15000+600000
  414488 words of font info for 97 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 71i,11n,77p,2434b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,77p,2428b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 5.dvi (13 pages, 99852 bytes).
+Output written on 5.dvi (13 pages, 99592 bytes).

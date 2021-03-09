@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 16:17
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 21:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -384,20 +384,14 @@ LaTeX Font Info:    Font shape `JT1/utfj/m/2' will be
 (Font)              scaled to size 9.24683pt on input line 91.
 LaTeX Font Info:    Font shape `JY1/utfj/m/2' will be
 (Font)              scaled to size 9.24683pt on input line 91.
- [6]
-Underfull \hbox (badness 2698) in paragraph at lines 114--114
- [][][][]\OT1/cmr/m/n/8 http://www.ocha.ac.jp/introduction/info/cooperation[]an
-d[]contribution.html[] \JY1/hmc/m/n/8 お茶の水女子大学ホ ームペ ージ 、
- []
-
-[7]
+ [6] [7]
 File: ../../media/2/image1.png Graphic file (type bmp)
 <../../media/2/image1.png>
  [8]
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 142.
+(Font)              scaled to size 9.24683pt on input line 141.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 142.
+(Font)              scaled to size 9.24683pt on input line 141.
  [9] [10] (./2.aux)
 Package rerunfilecheck Info: File `2.out' has not changed.
 (rerunfilecheck)             Checksum: 3ABDDCD12B6774A55007480FA6024565;1374.
@@ -411,4 +405,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  71i,10n,77p,1287b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 2.dvi (10 pages, 71024 bytes).
+Output written on 2.dvi (10 pages, 70984 bytes).

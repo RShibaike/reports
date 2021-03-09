@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  4 MAR 2021 21:34
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 23:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -379,14 +379,8 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 49.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 49.
- [4] [5] [6] [7]
-Overfull \hbox (85.2651pt too wide) in paragraph at lines 85--85
- [][][]\JY1/hmc/m/n/8 川崎市 ： 「 川崎市差別のない人権尊重のまちづくり条例 」 
-解釈指針[] \OT1/cmr/m/n/8 http://www.city.kawasaki.jp/250/cmsfiles/contents/000
-0113/113041/jyourei1.pdf[]\JY1/hmc/m/n/8 。| 
- []
-
-[8] [9] [10] (./12.aux)
+ [4] [5] [6] [7] [8] [9] [10]
+(./12.aux)
 Package rerunfilecheck Info: File `12.out' has not changed.
 (rerunfilecheck)             Checksum: E88EB595368BEF9F399D2BC73CF4C881;667.
  ) 
@@ -399,4 +393,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  71i,10n,77p,2072b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 12.dvi (10 pages, 69092 bytes).
+Output written on 12.dvi (10 pages, 69080 bytes).

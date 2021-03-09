@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 13:30
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -377,9 +377,10 @@ LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 5.5481pt on input line 27.
 
-Underfull \hbox (badness 3826) in paragraph at lines 47--47
- [][][]\OT1/cmr/m/n/8 Francesco Mar-coni \JY1/hmc/m/n/8 ＆ \OT1/cmr/m/n/8 Till 
-Dal-drup(2018), How The Wall Street Jour-nal is prepar-ing its jour-nal-ists
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+ []\JY1/hmc/m/n/8 （\OT1/cmr/m/n/8 https://www.niemanlab.org/2018/11/how-the-wa
+ll-street-journal-is-preparing-its-journalists-to-detect-deepfakes/\JY1/hmc/m/n
+/8 ，
  []
 
 [2
@@ -389,28 +390,29 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 58.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 58.
- [3]
-LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 100.
-LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 100.
- [4] [5] [6]
-Underfull \hbox (badness 6063) in paragraph at lines 152--155
-\OT1/cmr/m/n/10 AI Mu-sic? \JY1/hmc/m/n/10 （[]\OT1/cmr/m/n/10 https://pitchfor
-k.com/thepitch/what-does-jay-zs-fight-over-audio-deepfakes-mean-for-the-
+ [3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 134--153
+[]\JY1/hmc/m/n/10 （\OT1/cmr/m/n/10 https://www.niemanlab.org/2018/11/how-the-w
+all-street-journal-is-preparing-its-journalists-to-detect-
  []
 
-[7] (./13.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--153
+\JY1/hmc/m/n/10 （[]\OT1/cmr/m/n/10 https://pitchfork.com/thepitch/what-does-ja
+y-zs-fight-over-audio-deepfakes-mean-for-the-future-of-ai-
+ []
+
+[6] [7] (./13.aux)
 Package rerunfilecheck Info: File `13.out' has not changed.
 (rerunfilecheck)             Checksum: 0A58EB7CF4550A436C183D5A231464DB;885.
  ) 
 Here is how much of TeX's memory you used:
- 10224 strings out of 479488
- 143198 string characters out of 5874794
+ 10220 strings out of 479488
+ 143153 string characters out of 5874794
  464940 words of memory out of 5000000
- 27814 multiletter control sequences out of 15000+600000
- 414914 words of font info for 87 fonts, out of 8000000 for 9000
+ 27811 multiletter control sequences out of 15000+600000
+ 414544 words of font info for 84 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 71i,11n,77p,818b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,10n,77p,818b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 13.dvi (7 pages, 43348 bytes).
+Output written on 13.dvi (7 pages, 43116 bytes).

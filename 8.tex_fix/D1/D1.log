@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 18:41
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,25 +394,25 @@ LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 
 ]
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 5
-6.
+4.
 
 (c:/texlive/2020/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 56.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 54.
 LaTeX Font Info:    Font shape `JT1/utfj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 64.
+(Font)              scaled to size 9.24683pt on input line 62.
 LaTeX Font Info:    Font shape `JY1/utfj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 64.
+(Font)              scaled to size 9.24683pt on input line 62.
  [3]
-Overfull \hbox (2.09222pt too wide) in paragraph at lines 67--67
+Overfull \hbox (2.09222pt too wide) in paragraph at lines 65--65
  []\JY1/hmc/m/n/8 （\OT1/cmr/m/n/8 https://www.city.naha.okinawa.jp/kurasitetud
 uki/collabo/dannjyosankaku/center/jigyou/partnershipregistrat.html
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
  []\JY1/hmc/m/n/8 （\OT1/cmr/m/n/8 https://www.call4.jp/search.php?type=action&
 run=true&items[]id[]PAL[]=match+comp&items[]id=I0000031 ,
  []
@@ -421,39 +421,39 @@ run=true&items[]id[]PAL[]=match+comp&items[]id=I0000031 ,
 File: ../../media/D1/image1.jpeg Graphic file (type bmp)
 <../../media/D1/image1.jpeg>
 
-Overfull \hbox (1.34348pt too wide) in paragraph at lines 97--98
+Overfull \hbox (1.34348pt too wide) in paragraph at lines 93--94
 [][] 
  []
 
 [5] [6] [7] [8] [9] [10] [11]
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 7.39746pt on input line 302.
+(Font)              scaled to size 7.39746pt on input line 298.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 7.39746pt on input line 302.
+(Font)              scaled to size 7.39746pt on input line 298.
  [12] [13]
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 325.
+(Font)              scaled to size 9.24683pt on input line 321.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 325.
+(Font)              scaled to size 9.24683pt on input line 321.
  [14] [15] [16] [17] [18] [19] [20]
 LaTeX Font Info:    Font shape `JT1/utfj/bx/2' will be
-(Font)              scaled to size 9.24683pt on input line 479.
+(Font)              scaled to size 9.24683pt on input line 475.
 LaTeX Font Info:    Font shape `JY1/utfj/bx/2' will be
-(Font)              scaled to size 9.24683pt on input line 479.
+(Font)              scaled to size 9.24683pt on input line 475.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 479.
+(Font)              scaled to size 6.47278pt on input line 475.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 479.
+(Font)              scaled to size 6.47278pt on input line 475.
 
 [21]
 LaTeX Font Info:    Font shape `JT1/cidj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 504.
+(Font)              scaled to size 9.24683pt on input line 500.
 LaTeX Font Info:    Font shape `JY1/cidj/m/2' will be
-(Font)              scaled to size 9.24683pt on input line 504.
+(Font)              scaled to size 9.24683pt on input line 500.
 LaTeX Font Info:    Font shape `JT1/utfj/m/3' will be
-(Font)              scaled to size 9.24683pt on input line 504.
+(Font)              scaled to size 9.24683pt on input line 500.
 LaTeX Font Info:    Font shape `JY1/utfj/m/3' will be
-(Font)              scaled to size 9.24683pt on input line 504.
+(Font)              scaled to size 9.24683pt on input line 500.
  [22] [23] [24] [25] [26] [27] (./D1.aux)
 Package rerunfilecheck Info: File `D1.out' has not changed.
 (rerunfilecheck)             Checksum: C8398D83513B8CD0620F53A780B10365;2000.

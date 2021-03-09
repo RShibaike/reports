@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  4 MAR 2021 14:20
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -379,37 +379,13 @@ LaTeX Font Info:    Font shape `JY1/utfj/m/2' will be
 (Font)              scaled to size 9.24683pt on input line 31.
  [2
 
-] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
- [][][][]\OT1/cmr/m/n/8 http://www.shugiin.go.jp/internet/itdb[]shitsumon[]pdf[
-]s.nsf/html/shitsumon/pdfS/a201034.pdf/\TS1/cmr/m/n/8 $\OT1/cmr/m/n/8 File/a201
-034.pdf[]
- []
-
-[4] [5] [6] [7] [8]
-Underfull \hbox (badness 1558) in paragraph at lines 193--193
- [][][]\JY1/hmc/m/n/8 証明は当事者の関係性について公正証書による確認がなされる
-が 、 宣誓は確認不要で当事者の意思表示に
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 193--193
- \JY1/hmc/m/n/8 よ ってなされる 。 登録は当事者に対して自治体が登録証明書を発行
-するなど当事者の関係性に継続的に関わ
- []
-
-
-Overfull \hbox (83.03082pt too wide) in paragraph at lines 193--193
- \OT1/cmr/m/n/8 https://www.city.naha.okinawa.jp/kurasitetuduki/collabo/dannjyo
-sankaku/center/jigyou/partnershipregistrat.files/partnershipyoukou.pdf[]
- []
-
-[9] [10]
+] [3] [4] [5] [6] [7] [8] [9] [10]
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 240.
+(Font)              scaled to size 9.24683pt on input line 237.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 240.
- [11] [12] (./4.aux)
+(Font)              scaled to size 9.24683pt on input line 237.
+ [11]
+[12] (./4.aux)
 Package rerunfilecheck Info: File `4.out' has not changed.
 (rerunfilecheck)             Checksum: 24EF8E6060C5084976A56193F9ACA7AA;1875.
  ) 
@@ -420,6 +396,6 @@ Here is how much of TeX's memory you used:
  27820 multiletter control sequences out of 15000+600000
  414645 words of font info for 88 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 71i,11n,77p,1252b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,77p,1258b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 4.dvi (12 pages, 91984 bytes).
+Output written on 4.dvi (12 pages, 91780 bytes).

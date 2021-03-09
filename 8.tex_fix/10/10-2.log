@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  4 MAR 2021 22:49
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 22:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,12 +456,12 @@ Package rerunfilecheck Info: File `10-2.out' has not changed.
 (rerunfilecheck)             Checksum: 4185FB6E3827CA7F80E4BCCC1AB26D6E;1467.
  ) 
 Here is how much of TeX's memory you used:
- 10253 strings out of 479488
- 143803 string characters out of 5874794
+ 10252 strings out of 479488
+ 143785 string characters out of 5874794
  464330 words of memory out of 5000000
- 27832 multiletter control sequences out of 15000+600000
+ 27831 multiletter control sequences out of 15000+600000
  414643 words of font info for 88 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 71i,11n,77p,1215b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,11n,77p,1200b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 10-2.dvi (13 pages, 70552 bytes).
+Output written on 10-2.dvi (13 pages, 70548 bytes).
