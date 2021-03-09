@@ -1,0 +1,50 @@
+\contentsline {section}{\numberline {1}出入国管理局の収容施設における難民認定申請者の人権侵害}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}収容施設の実態}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}出入国管理庁における収容施設とは}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}実際に起きている人権侵害}{3}{subsubsection.1.1.2}%
+\contentsline {subparagraph}{刑事事件の収容と比較して分かる長期収容の温床}{3}{section*.2}%
+\contentsline {subparagraph}{統計から見る長期収容化}{4}{section*.3}%
+\contentsline {subparagraph}{収容後の司法救済}{4}{section*.4}%
+\contentsline {subparagraph}{収容所の外での「人間らしい扱い」}{4}{section*.5}%
+\contentsline {subparagraph}{収容所の中での「人間らしい扱い」}{4}{section*.6}%
+\contentsline {subsubsection}{\numberline {1.1.3}人権侵害の合憲性判断}{5}{subsubsection.1.1.3}%
+\contentsline {paragraph}{外国人の人権享有主体性}{5}{section*.7}%
+\contentsline {subsubsection}{\numberline {1.1.4}人身の自由}{6}{subsubsection.1.1.4}%
+\contentsline {paragraph}{総説}{6}{section*.8}%
+\contentsline {paragraph}{憲法31条（適正手続保障）と行政手続}{6}{section*.9}%
+\contentsline {subparagraph}{適用否定説}{6}{section*.10}%
+\contentsline {subparagraph}{直接適用説}{6}{section*.11}%
+\contentsline {subparagraph}{準用ないし類推適用説}{6}{section*.12}%
+\contentsline {subparagraph}{13条適用説}{6}{section*.13}%
+\contentsline {subparagraph}{手続的法治国説}{7}{section*.14}%
+\contentsline {paragraph}{入管手続と憲法31条}{7}{section*.15}%
+\contentsline {paragraph}{入管手続と憲法33条}{9}{section*.16}%
+\contentsline {paragraph}{入管手続と憲法34条}{10}{section*.17}%
+\contentsline {subparagraph}{入管手続と不当な身体拘束からの自由}{11}{section*.18}%
+\contentsline {subsubsection}{\numberline {1.1.5}生存権}{12}{subsubsection.1.1.5}%
+\contentsline {paragraph}{合憲性判断基準}{12}{section*.19}%
+\contentsline {paragraph}{具体的検討}{12}{section*.20}%
+\contentsline {section}{\numberline {2}外国人の不就学問題}{15}{section.2}%
+\contentsline {subsection}{\numberline {2.1}不就学問題の現状}{15}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}不就学に陥る原因}{15}{subsubsection.2.1.1}%
+\contentsline {paragraph}{入学以前の要因}{15}{section*.21}%
+\contentsline {subparagraph}{子供の就学資格に関する問題}{15}{section*.22}%
+\contentsline {subparagraph}{保護者の教育能力に関する問題}{15}{section*.23}%
+\contentsline {subparagraph}{学校行政上の問題}{16}{section*.24}%
+\contentsline {paragraph}{入学以後の問題}{17}{section*.25}%
+\contentsline {subparagraph}{学校教育に関する問題}{17}{section*.26}%
+\contentsline {subsubsection}{\numberline {2.1.2}見えにくい外国人の不就学問題}{17}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}教育を受ける権利（憲法26条）に関する検討}{17}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}外国人と教育を受ける権利}{18}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}外国人と義務教育}{19}{subsubsection.2.2.2}%
+\contentsline {paragraph}{A説（就学義務否定説）}{19}{section*.27}%
+\contentsline {paragraph}{B説（就学義務肯定説）}{20}{section*.28}%
+\contentsline {paragraph}{C説（教育義務肯定説）}{21}{section*.29}%
+\contentsline {paragraph}{総括として}{21}{section*.30}%
+\contentsline {subsection}{\numberline {2.3}具体的に考えられる政策}{22}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}現行法制度の活用}{22}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}新たな教育制度のあり方}{24}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}おわりに}{24}{subsection.2.4}%
+\contentsline {section}{\numberline {3}参考文献}{25}{section.3}%
+\contentsline {subsection}{\numberline {3.1}難民認定申請者の人権侵害}{25}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}外国人の不就学問題}{26}{subsection.3.2}%

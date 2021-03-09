@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  4 MAR 2021 13:30
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,22 +347,21 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 14.
- (./1.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 3.
-LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 4.62341pt on input line 3.
-)
+ (./1.toc)
 \tf@toc=\write4
 \openout4 = `1.toc'.
 
  [1
 
 ]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 21.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 21.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 21.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 6.47278pt on input line 21.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
@@ -375,17 +374,32 @@ LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 11.09619pt on input line 32.
  [2
 
-] [3] [4] [5] [6] [7] [8] [9] [10] (./1.aux)
-Package rerunfilecheck Info: File `1.out' has not changed.
-(rerunfilecheck)             Checksum: EE71C17ED64EE4CF1AB6AE5C13724694;1007.
+] [3] [4] [5] [6] [7] [8] [9]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
+63.
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 163.
+ [10] (./1.aux)
+
+Package rerunfilecheck Warning: File `1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `1.out':
+(rerunfilecheck)             Before: EE71C17ED64EE4CF1AB6AE5C13724694;1007
+(rerunfilecheck)             After:  14EE9E7F04A1751C06309E6A5D772568;1055.
  ) 
 Here is how much of TeX's memory you used:
- 10216 strings out of 479488
- 143084 string characters out of 5874794
- 466020 words of memory out of 5000000
- 27808 multiletter control sequences out of 15000+600000
+ 10234 strings out of 479488
+ 143376 string characters out of 5874794
+ 466027 words of memory out of 5000000
+ 27823 multiletter control sequences out of 15000+600000
  414236 words of font info for 83 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  71i,11n,77p,1138b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 1.dvi (10 pages, 71744 bytes).
+Output written on 1.dvi (10 pages, 68804 bytes).

@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}はじめに}{2}{section.1}%
+\contentsline {section}{\numberline {2}インターネットの特殊媒体性について}{2}{section.2}%
+\contentsline {section}{\numberline {3}ラーメンフランチャイズ事件}{2}{section.3}%
+\contentsline {section}{\numberline {4}リツイート訴訟}{3}{section.4}%
+\contentsline {section}{\numberline {5}配信サービスの抗弁}{5}{section.5}%
+\contentsline {section}{\numberline {6}プロバイダ責任制限法について}{7}{section.6}%
+\contentsline {section}{\numberline {7}発信者情報開示請求の諸問題}{8}{section.7}%
+\contentsline {section}{\numberline {8}発信者情報開示の在り方に関する研究会について}{9}{section.8}%
+\contentsline {subsection}{\numberline {8.1}開示情報範囲の拡大}{9}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}まず、電話番号についてその必要性、有用性を考える。近年のインターネット上の権利侵害投稿はSNSを媒体としているものが増加しており、SNSを提供する主要なコンテンツプロバイダの中には投稿時のIPアドレス等を保持していないものも多い。また、SNS等ではアカウント作成時において連絡先の登録を行うことや、不正ログイン等を防止するセキュリティ対策を目的とした電話番号の登録が一般化しつつあり、これらのコンテンツプロバイダがユーザの登録者情報として電話番号を保有しているケースが増加している。そのため、電話番号を開示情報に加えることには必要性、有用性がともに認められ、今回の改正において電話番号の項目は追加された。}{10}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}次に、ログイン時情報について検討する。まず、ログイン時情報とはログイン時の通信におけるIPアドレスやタイムスタンプのことである。これに対して投稿時の通信におけるIPアドレスやタイムスタンプを投稿時情報といい、現行法において開示の対象となっている（総務省令に規定されているIPアドレスやタイムスタンプ）のはこの投稿時情報である。しかし、主要なSNSの中には投稿時情報を保持せず、ログイン時情報しか保持していないものがあり、このようなSNSで権利侵害が生じたときには、請求したとしても情報がないために開示されないということが起こりうる。}{10}{subsubsection.8.1.2}%
+\contentsline {paragraph}{発信者の同一性}{10}{section*.2}%
+\contentsline {paragraph}{開示の対象とすべきログイン時情報の範囲}{10}{section*.3}%
+\contentsline {subsection}{\numberline {8.2}非訟手続}{11}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}発信者の意見照会について}{12}{subsection.8.3}%
+\contentsline {section}{\numberline {9}まとめ}{13}{section.9}%
+\contentsline {section}{\numberline {10}参考文献}{14}{section.10}%

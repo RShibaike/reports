@@ -1,4 +1,4 @@
-fo = open('8.tex_fix/18/18.tex', 'w', encoding='utf-8', newline='\n')
+fo = open('8.tex_fix/7/7.tex', 'w', encoding='utf-8', newline='\n')
 
 fo.write("\\documentclass[twoside]{jsarticle}\n")
 fo.write("\\usepackage[dvipdfmx,hidelinks]{hyperref}\n")
@@ -15,7 +15,7 @@ fo.write(
 
 fo.write("\\pagestyle{fancy}\n\\lhead[]{}\n\\rhead[]{\\leftmark}\n")
 
-with open('7.tex_ori/18.tex', mode='r', encoding='utf-8') as fi:
+with open('7.tex_ori/7.tex', mode='r', encoding='utf-8') as fi:
     for line in fi:
         line = line.replace("①", "\\UTF{2460}")
         line = line.replace("②", "\\UTF{2461}")
@@ -38,6 +38,8 @@ with open('7.tex_ori/18.tex', mode='r', encoding='utf-8') as fi:
         line = line.replace("Ⅳ", "\\ajRoman{4}")
         line = line.replace("Ⅴ", "\\ajRoman{5}")
         line = line.replace("Ⅵ", "\\ajRoman{6}")
+        line = line.replace("<", "\\textless")
+        line = line.replace(">", "\\textgreater")
         fo.write(line)
 
 fo.write("\\end{document}")

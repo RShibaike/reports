@@ -1,0 +1,412 @@
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 13:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**A3.tex
+(./A3.tex
+pLaTeX2e <2020-10-01>+2 (based on LaTeX2e <2020-10-01> patch level 4)
+L3 programming layer <2021-02-18>
+(c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2020/10/09 jsclasses (okumura, texjporg)
+\jsc@mpt=\dimen154
+\jsc@mmm=\dimen155
+\jsc@smallskipamount=\skip47
+LaTeX Info: Redefining \textmc on input line 497.
+LaTeX Info: Redefining \textgt on input line 499.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 561.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 755.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 755.
+\fullwidth=\dimen156
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 908.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 908.
+\c@part=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\@abstractbox=\box64
+\c@figure=\count184
+\c@table=\count185
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\jsc@tocl@width=\dimen157
+\@lnumwidth=\dimen158
+\bibindent=\dimen159
+(c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2019/07/25 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 82.
+LaTeX Info: Redefining \LaTeX on input line 135.
+LaTeX Info: Redefining \LaTeXe on input line 188.
+)
+\heisei=\count186
+)
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+
+(c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen160
+\Hy@linkcounter=\count187
+\Hy@pagecounter=\count188
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+)
+(c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count189
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count190
+
+(c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen161
+
+(c:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count191
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count192
+\c@Item=\count193
+\c@Hfootnote=\count194
+)
+Package hyperref Info: Driver: hdvipdfm.
+
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/hdvipdfm.def
+File: hdvipdfm.def 2021-02-10 v7.00j Hyperref driver for dvipdfm
+\pdfm@box=\box65
+\c@Hy@AnnotLevel=\count195
+\HyField@AnnotCount=\count196
+\Fld@listcount=\count197
+\c@bookmark@seq@number=\count198
+
+(c:/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(c:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip50
+)
+(c:/texlive/2020/texmf-dist/tex/platex/pxjahyper/pxjahyper.sty
+Package: pxjahyper 2021/02/13 v0.7
+
+(c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count199
+)
+(c:/texlive/2020/texmf-dist/tex/platex/pxjahyper/pxjahyper-enc.sty
+Package: pxjahyper-enc 2021/02/13 v0.7
+))
+(c:/texlive/2020/texmf-dist/tex/platex/japanese-otf-uptex/otf.sty
+Package: otf 2019/04/01 v1.7b8 psitau, u0.26 ttk
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 322.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 324.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 325.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 326.
+
+(c:/texlive/2020/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
+Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp
+>
+\@tempcntc=\count266
+\@tempcntd=\count267
+\@tempcnte=\count268
+\@tempcntf=\count269
+))
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2020/08/26 v5.0h Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+(c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 9.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 9.
+
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2021-02-18 L3 backend support: dvips
+\l__pdf_internal_box=\box66
+\g__pdf_backend_object_int=\count270
+\l__pdf_backend_content_box=\box67
+\l__pdf_backend_model_box=\box68
+\g__pdf_backend_annotation_int=\count271
+\g__pdf_backend_link_int=\count272
+\g__pdf_backend_link_sf_int=\count273
+) (./A3.aux)
+\openout1 = `A3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+Package hyperref Info: Link coloring OFF on input line 9.
+(c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count274
+)
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
+
+(./A3.out) (./A3.out)
+\@outlinefile=\write3
+\openout3 = `A3.out'.
+
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 14.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 14.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 14.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 14.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 14.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 14.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 14.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 14.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 14.
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 14.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 14.
+ (./A3.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 2.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 2.
+ [1
+
+])
+\tf@toc=\write4
+\openout4 = `A3.toc'.
+
+ [2]
+LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 21.
+LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 21.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 31.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 31.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 31.
+ [3
+
+] [4]
+LaTeX Font Info:    Font shape `JT1/utfj/m/2' will be
+(Font)              scaled to size 9.24683pt on input line 78.
+LaTeX Font Info:    Font shape `JY1/utfj/m/2' will be
+(Font)              scaled to size 9.24683pt on input line 78.
+ [5] [6] [7] [8]
+LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
+(Font)              scaled to size 7.39746pt on input line 155.
+LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
+(Font)              scaled to size 7.39746pt on input line 155.
+ [9] [10]
+[11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
+(Font)              scaled to size 9.24683pt on input line 349.
+LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
+(Font)              scaled to size 9.24683pt on input line 349.
+ [22] [23] (./A3.aux)
+
+Package rerunfilecheck Warning: File `A3.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `A3.out':
+(rerunfilecheck)             Before: 7B015A9339FB569A8D6BF6D8C5375543;2300
+(rerunfilecheck)             After:  501671AACD947FA0F1D505951E698F20;2297.
+ ) 
+Here is how much of TeX's memory you used:
+ 10234 strings out of 479488
+ 143324 string characters out of 5874794
+ 468128 words of memory out of 5000000
+ 27822 multiletter control sequences out of 15000+600000
+ 414344 words of font info for 89 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 71i,11n,77p,2529b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on A3.dvi (23 pages, 163276 bytes).

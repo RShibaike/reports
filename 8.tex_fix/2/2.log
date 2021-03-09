@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  4 MAR 2021 14:00
+This is e-pTeX, Version 3.14159265-p3.8.3-191112-2.6 (utf8.sjis) (TeX Live 2020/W32TeX) (preloaded format=platex 2021.2.22)  9 MAR 2021 16:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -393,26 +393,22 @@ d[]contribution.html[] \JY1/hmc/m/n/8 お茶の水女子大学ホ ームペ ー�
 [7]
 File: ../../media/2/image1.png Graphic file (type bmp)
 <../../media/2/image1.png>
-LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 119.
-LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 119.
  [8]
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 143.
+(Font)              scaled to size 9.24683pt on input line 142.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 143.
+(Font)              scaled to size 9.24683pt on input line 142.
  [9] [10] (./2.aux)
 Package rerunfilecheck Info: File `2.out' has not changed.
 (rerunfilecheck)             Checksum: 3ABDDCD12B6774A55007480FA6024565;1374.
  ) 
 Here is how much of TeX's memory you used:
- 10244 strings out of 479488
- 143480 string characters out of 5874794
+ 10239 strings out of 479488
+ 143426 string characters out of 5874794
  467270 words of memory out of 5000000
- 27826 multiletter control sequences out of 15000+600000
- 414845 words of font info for 92 fonts, out of 8000000 for 9000
+ 27822 multiletter control sequences out of 15000+600000
+ 414344 words of font info for 89 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  71i,10n,77p,1287b,1023s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 2.dvi (10 pages, 71292 bytes).
+Output written on 2.dvi (10 pages, 71024 bytes).
