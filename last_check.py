@@ -1,5 +1,5 @@
 cnt = 1
-with open('8.tex_fix/D2/D2.tex', mode='r', encoding='utf-8') as fi:
+with open('8.tex_fix/14/14-2.tex', mode='r', encoding='utf-8') as fi:
     for line in fi:
         if "<" in line:
             print("<:"+str(cnt))
